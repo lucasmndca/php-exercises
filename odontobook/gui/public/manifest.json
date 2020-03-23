@@ -1,0 +1,9 @@
+{
+  "short_name": "OdontoBook",
+  "name": "Book sessions in your calendar!",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#8a2be2",
+  "background_color": "#8a2be2"
+}
