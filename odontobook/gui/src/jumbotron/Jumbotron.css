@@ -1,0 +1,27 @@
+.jumbotron {
+    width: 100%;
+    height: calc(100vh - 50px);
+    padding: 13% 80px;
+    margin-top: -5px;
+    position: relative;
+}
+
+.jumbotron-title,
+.jumbotron-description {
+    margin: 5px;
+    text-align: left;
+}
+
+.jumbotron-title {
+    width: 100%;
+    font-size: 4.5rem;
+    font-weight: 400;
+    color: #fff;
+}
+
+.jumbotron-description {
+    font-size: 2.8rem;
+    color: #e6d1fa;
+    display: block;
+    width: 40%;
+}
